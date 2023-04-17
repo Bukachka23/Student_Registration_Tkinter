@@ -26,3 +26,5 @@
 - Displays a warning if the user does not enter their first and last name or if they do not agree to the terms and conditions.
 - Easy navigation with clear labels and tooltips.
 - Output section displays the submitted information.
+
+![Demo GIF](2.gif)
